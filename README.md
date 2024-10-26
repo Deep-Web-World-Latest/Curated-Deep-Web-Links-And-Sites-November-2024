@@ -2,7 +2,7 @@
 
 # Welcome to Curated Deep Web Links And Sites November 2024
 
-<img src="https://github.com/Deep-Web-World-Latest/Curated-Deep-Web-Links-And-Sites-November-2024/blob/main/link%20Image.png">
+<img src="https://github.com/Deep-Web-World-Latest/Curated-Deep-Web-Links-And-Sites-November-2024/blob/main/link%20image.png">
 
 > Set out on a carefully curated exploration of verified .onion URLs, revealing a wide array of hidden Onion Services nestled within the enigmatic depths of the dark web.
 
